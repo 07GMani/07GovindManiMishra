@@ -1,7 +1,6 @@
 # 07GovindManiMishra
 <h1 align="center">Hi 👋, I'm Govind Mani Mishra</h1>
 <h3 align="center">A passionate frontend developer.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=07gmani&label=Profile%20views&color=0e75b6&style=flat" alt="07gmani" /> </p>
 
 - 🔭 I’m currently working on **working on making projects on React.**
